@@ -9,15 +9,23 @@ Demo: <https://araceliponce.github.io/tarea29/>
 - MARWIN WLADIMIR GARAY MONTOYA
 - JHYM STONY HUALLA MUÑOZ
 
+---
 
-![](./src/assets/capture.png)
+- La aplicación muestra una tabla de productos obtenida de un array de objetos
+
+![iNICIO](https://github.com/araceliponce/tarea29/blob/main/src/assets/290.png)
 
 
-una tabla con codigo nombre precio borrar
+- El botón de añadir producto abre un dialog con el que se pueden agregar productos a la tabla
 
-un boton agregar abre un dialog
+![iNICIO](https://github.com/araceliponce/tarea29/blob/main/src/assets/291.png)
+![iNICIO](https://github.com/araceliponce/tarea29/blob/main/src/assets/293.png)
 
-dialog: codigo, nombre, precio, cancelar, guardar
+- Cada botón borrar permite borrar el producto de su respectiva fila. Antes de borrarlo pide una confirmación del usuario
 
-al cerrar debe verse en la tabla
+![iNICIO](https://github.com/araceliponce/tarea29/blob/main/src/assets/294.png)
+![iNICIO](https://github.com/araceliponce/tarea29/blob/main/src/assets/2944.png)
+![iNICIO](https://github.com/araceliponce/tarea29/blob/main/src/assets/295.png)
 
+
+Tanto después de agregar como de borrar un producto, la tabla se auto-actualiza.
